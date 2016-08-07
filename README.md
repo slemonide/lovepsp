@@ -12,7 +12,7 @@ By now code is very instable and can throw errors because this is version from t
 
 How to run it:
 
-1. Rename 'script.lua' to another name, like '_script.lua' (actually, this is )
+1. Rename 'script.lua' to another name, like '_script.lua' (actually, this file is entry point for example project of PGE **do not delete it**. It can be very usefull, because there is no documentation for this engine)
 1. Rename 'love.lua' to 'script.lua' to make it entry file
 1. Place LovePSP inside PSP/GAME folder of your PSP
 1. Run it from PSP menu (note that you need to have CFW insalled to run homebrew)
